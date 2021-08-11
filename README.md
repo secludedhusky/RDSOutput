@@ -52,4 +52,4 @@ Distributed under the Apache license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[wiki]: RDSOutput/wiki
+[wiki]: https://github.com/RadarFolf/RDSOutput/wiki
