@@ -17,7 +17,7 @@ Windows:
 2) Add the following line to your Plugins.xml file.
 
 ```sh
-<add key="Rdsi" value="SDRSharp.RdsiPlugin.RdsiPlugin,SDRSharp.RdsiPlugin"/>
+<add key="RDS Output" value="SDRSharp.RDSOutput.RDSOutput,SDRSharp.RDSOutput" />
 ```
 
 3) Launch SDR# and enable RDS Output.
