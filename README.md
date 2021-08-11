@@ -12,7 +12,7 @@ but it was made public to allow for individuals to contribute and maintain the p
 
 Windows:
 
-1) Drag and drop the DLL files from the [latest release](https://github.com/RadarFolf/sdrsharp-rds2rdsspy/releases) into your SDR# directory.
+1) Drag and drop the DLL files from the [latest release](https://github.com/RadarFolf/RDSOutput/releases) into your SDR# directory.
 
 2) Add the following line to your Plugins.xml file.
 
@@ -41,15 +41,15 @@ Casey Maxwell – [@RadarFolf](https://twitter.com/RadarFolf) – radar@caseymed
 
 Distributed under the Apache license. See ``LICENSE`` for more information.
 
-[https://github.com/RadarFolf/sdrsharp-rds2rdsspy](https://github.com/RadarFolf)
+[https://github.com/RadarFolf/RDSOutput](https://github.com/RadarFolf)
 
 ## Contributing
 
-1. Fork it (<https://github.com/RadarFolf/sdrsharp-rds2rdsspy/fork>)
-2. Create your feature branch (`git checkout -b feature/sdrsharp-rds2rdsspy`)
+1. Fork it (<https://github.com/RadarFolf/RDSOutput/fork>)
+2. Create your feature branch (`git checkout -b feature/rdsoutput`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/sdrsharp-rds2rdsspy`)
+4. Push to the branch (`git push origin feature/rdsoutput`)
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[wiki]: https://github.com/RadarFolf/sdrsharp-rds2rdsspy/wiki
+[wiki]: RDSOutput/wiki
