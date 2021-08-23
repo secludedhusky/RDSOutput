@@ -40,6 +40,7 @@ Windows:
 ## Meta
 
 Sergio Navarro - sergionavarrog@gmail.com (Original Author)
+
 Casey Maxwell – [@RadarFolf](https://twitter.com/RadarFolf) – radar@caseymediallc.com
 
 Distributed under the Apache license. See ``LICENSE`` for more information.
