@@ -6,6 +6,8 @@ so I decided to code a plugin to be able to use RDS Spy with just simply a local
 virtual audio cables and can be rather easily controlled and customized to allow for better integration. This was originally supposed to be a private plugin
 but it was made public to allow for individuals to contribute and maintain the project.
 
+This plugin is a reupload of Sergio Navarro's old RDSOutput plugin, with this project still being maintained.
+
 ![](header.png)
 
 ## Installation
@@ -37,6 +39,7 @@ Windows:
 
 ## Meta
 
+Sergio Navarro - sergionavarrog@gmail.com (Original Author)
 Casey Maxwell – [@RadarFolf](https://twitter.com/RadarFolf) – radar@caseymediallc.com
 
 Distributed under the Apache license. See ``LICENSE`` for more information.
